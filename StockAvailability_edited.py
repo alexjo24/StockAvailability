@@ -30,7 +30,7 @@ def FetchWebsites():
 # 	# os.chdir(r'C:\Users\Aleba\Desktop\Git_main\StockAvailability')
 # 	# ezgmail.init()
 # 	nameOfStore = "Inet"
-# 	linktmp = "Inet.se"
+# 	linktmp = "Inet.se" 
 # 	bodyText = 'Here is a link: ' + linktmp
 # 	ezgmail.send('alexander.jorud@gmail.com', 'Cards in stock@'+nameOfStore, bodyText)
 
